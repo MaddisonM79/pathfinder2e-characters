@@ -110,6 +110,22 @@ Lilithia can use a **single action** to **sustain** one or more of her hexes tha
 - **Frequency**: At-will, once per turn  
 - **Flavor**: A low, mirthless chuckle echoes from both Lilithia and Pandora. Their mouths may not even move.
 
+---
+
+## 🧠 General Feat (Level 1)
+
+**Recognize Spell**  
+*You’ve studied magic in all its forms and can identify its patterns instantly.*
+
+- **Trigger**: A creature within 60 feet begins casting a spell.  
+- **Action**: Free Action (or Reaction)  
+- **Effect**: Attempt a Recall Knowledge check (Occultism) to identify the spell.  
+- **Success**: You learn which spell is being cast and what it does.  
+- **Failure**: You learn nothing (no penalty or misinformation).
+
+> Lilithia judges not only intent, but form. Her eyes narrow—her voice calm:  
+> “I know that spell. Do you understand what you’ve just revealed?”
+
 --
 
 ## Mechanical Details
