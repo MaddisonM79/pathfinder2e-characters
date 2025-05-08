@@ -93,6 +93,25 @@ And her dreams whisper truths.
 
 ---
 
+## 🧬 Ancestry & Heritage
+
+- **Ancestry**: Human  
+- **Heritage**: Versatile Heritage  
+- **Ancestry Feat**: *Natural Ambition*  
+  - Lilithia gains an **additional 1st-level class feat**.
+  - This allows her to start with **Lesson of Shadows** and **Cackle**.
+
+### 🎭 Cackle (Class Feat – Witch 1)
+
+Lilithia can use a **single action** to **sustain** one or more of her hexes that normally require an action to maintain (e.g., *Evil Eye*).
+
+- **Type**: [Concentrate]  
+- **Effect**: Sustain a hex that normally requires concentration (like *Evil Eye*)  
+- **Frequency**: At-will, once per turn  
+- **Flavor**: A low, mirthless chuckle echoes from both Lilithia and Pandora. Their mouths may not even move.
+
+--
+
 ## Mechanical Details
 
 - **Ability Scores (Before Modifiers)**: STR 12, DEX 12, CON 12, INT 18, WIS 12, CHA 12  
