@@ -45,7 +45,7 @@ _Curse Patron, Occult Tradition_
 
 ---
 
-### 🕯️ Witch Class Features (Level 1)
+### Witch Class Features (Level 1)
 
 **Patron:** Curse  
 **Tradition:** Occult  
@@ -55,7 +55,7 @@ _Curse Patron, Occult Tradition_
 
 ---
 
-#### 🪄 Class Feat (1st Level): *Lesson of Shadows*
+#### Class Feat (1st Level): *Lesson of Shadows*
 
 Lilithia's patron has granted her insight into the fears that lurk in the mind.  
 This lesson teaches her a signature hex and enhances Pandora with new capabilities.
@@ -135,6 +135,20 @@ Common, Necril
 - **Size:** Medium  
 - **Speed:** 25 feet  
 - **Reach:** 5 feet  
+
+---
+
+## 🎒 Starting Equipment (15 gp)
+
+- **Adventurer’s Pack** (1 gp) — Rations, bedroll, rope, torch, waterskin, etc.  
+- **Dagger** (2 sp) — Ceremonial blade; polished, never blooded.  
+- **Healer’s Tools (Basic)** (5 gp) — Used precisely, without sentiment; life preserved only when necessary.  
+- **Writing Set** (1 gp) — Quill, ink, and parchment; her journal margins are more arcane than the center.  
+- **Spell Component Pouch** (2 gp) — Carried in a worn leather pouch affixed to Pandora's harness.  
+- **Darkweave Scarf** (1 gp) — Faintly shimmering; unnerving to look at too long.  
+- **Remaining Gold**: 4.8 gp  
+
+> Lilithia’s outfit includes her signature **raven-feather cloak** and **dark silk gloves**, worn over plain Explorer’s Clothing. These items are non-magical and purely thematic.
 
 ---
 
