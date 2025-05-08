@@ -20,7 +20,7 @@ _Curse Patron, Occult Tradition_
 **Location:** Ustalav, Hungry Mountains region  
 **Languages:** Common, Necril
 **Occupation:** Wandering scholar of forbidden knowledge  
-**Homepage/URL:**   
+**Homepage/URL:** https://github.com/MaddisonM79/pathfinder2e-characters/blob/main/Lilithia%20Tarnisov.md  
 **Special Abilities (PFS-relevant summary):**  
 • Spellcasting (Occult, INT)  
 • Focus Spell: *Evil Eye* (1 FP)  
