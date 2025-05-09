@@ -1,4 +1,4 @@
-# Lilithia Tarnisov – Character Profile
+# Lilithia Tarnisov – Character
 
 **Level 1 Witch**  
 *Curse Patron, Occult Tradition*  
@@ -6,7 +6,7 @@
 
 ---
 
-## Pathfinder Society Profile
+## 🪪 Pathfinder Society Profile
 
 - **Organized Play ID:** 5962143-1  
 - **Character Number:** 1  
@@ -31,12 +31,19 @@
 
 ---
 
-## Core Stats & Combat
+## ⚔️ Core Stats & Combat
 
 ### Ability Scores (Before Modifiers)
-- STR 12 | DEX 12 | CON 12 | INT 18 | WIS 12 | CHA 12
+
+- **STR:** 12  
+- **DEX:** 12  
+- **CON:** 12  
+- **INT:** 18  
+- **WIS:** 12  
+- **CHA:** 12
 
 ### Defenses & Mobility
+
 - **HP:** 15  
 - **AC:** 14 *(10 base + 1 DEX + 3 proficiency)*  
 - **Armor:** Explorer’s Clothing *(no bonus or penalty)*  
@@ -48,23 +55,27 @@
   - Will +6
 
 ### Initiative
+
 - Default: +4 (Perception)  
 - May substitute relevant skills (e.g., Occultism)
 
 ### Attacks
+
 - **Dagger**  
   - +4 to hit (Melee or Thrown, 10 ft)  
   - Damage: 1d4 piercing (+1 if melee)
 
 ### Encumbrance
+
 - STR 12 → Encumbered at 6 Bulk, Max 11 Bulk  
 - Current: ~2 Bulk *(Not Encumbered)*
 
 ---
 
-## Skills
+## 🧠 Skills
 
-**Trained In:**  
+**Trained In:**
+
 - Arcana +7  
 - Occultism +7  
 - Society +7  
@@ -77,7 +88,7 @@
 
 ---
 
-## Spellcasting
+## 🔮 Spellcasting
 
 - **Tradition:** Occult  
 - **Casting Ability:** INT +4  
@@ -92,7 +103,7 @@
 
 ---
 
-## Class Features – Witch (Level 1)
+## 🧙 Class Features – Witch (Level 1)
 
 - **Patron:** Curse (*The Unblinking One*)  
 - **Lesson:** Shadows  
@@ -100,14 +111,15 @@
   - Familiar gains *Darkvision*
 
 ### Class Feats
-- **Lesson of Shadows** *(from class)*  
-- **Cackle** *(via Natural Ambition)*  
+
+- *Lesson of Shadows* *(from class)*  
+- *Cackle* *(via Natural Ambition)*  
   - Sustain hexes with a single action  
   - Described as a shared, mirthless laugh from both Lilithia and Pandora
 
 ---
 
-## Feats
+## 🎓 Feats
 
 - **General Feat:** *Recognize Spell*  
   - Free Action when a spell is cast nearby  
@@ -118,17 +130,21 @@
 
 ---
 
-## Ancestry & Background
+## 🧬 Ancestry & Background
 
-### Human – Versatile Heritage (Kellid ethnicity)  
+### Human – Versatile Heritage *(Kellid ethnicity)*
+
 - Chose *Natural Ambition* for additional class feat
 
-### Background – Occult Librarian  
+### Background – Occult Librarian
+
 - Skilled in uncovering and recording forbidden lore  
 - Grew up enthralled by hidden truths and cursed tomes  
 - Trained in research, identification, and the occult
 
-### The Whisper Beneath The Failed Prayer
+---
+
+## 🕯️ The Whisper Beneath The Failed Prayer
 
 Lilithia was born in a forgotten village, where prayers faded and shadows lingered.  
 When a wasting sickness claimed her family, no light answered—only something darker.  
@@ -147,7 +163,7 @@ And her dreams whisper truths.
 
 ---
 
-## Familiar – Pandora
+## 🐈 Familiar – Pandora
 
 - **Type:** Cat  
 - **HP:** 7  
@@ -160,7 +176,8 @@ And her dreams whisper truths.
   - Spell Battery  
   - Canny Acumen
 
-**Behavioral Details:**  
+### Behavioral Details
+
 - She does not let people initiate touch with Lilithia. She pushes herself between them.  
 - She never blinks, even when sleeping.  
 - When Lilithia sleeps, Pandora lays on or near her.  
@@ -169,15 +186,17 @@ And her dreams whisper truths.
 - When using Spell Battery, she touches Lilithia’s face with her nose—like sealing a secret.  
 - She senses lies and stares silently at liars, but never acts on it directly.
 
-**Appearance:**  
+### Appearance
+
 - Raven-black fur with inky ripple texture  
 - Eyes reflect alien starlight—never blink
 
 ---
 
-## Prepared Spells
+## 📖 Prepared Spells
 
 ### Cantrips (Daily)
+
 - *Daze*  
 - *Void Warp*  
 - *Toxic Temptation*  
@@ -185,6 +204,7 @@ And her dreams whisper truths.
 - *Shield*
 
 ### 1st-Level (Prepared)
+
 - *Grim Tendrils* (Signature)  
 - *Fear*  
 - *Mage Armor*
@@ -195,9 +215,10 @@ And her dreams whisper truths.
 
 ---
 
-## Spellbook Contents
+## 📚 Spellbook Contents
 
 ### Cantrips
+
 - *Daze* (Emotion, Mental)  
 - *Message* (Mental)  
 - *Shield* (Abjuration)  
@@ -205,6 +226,7 @@ And her dreams whisper truths.
 - *Void Warp* (Void, Transmutation)
 
 ### 1st-Level
+
 - *Grim Tendrils* (Necromancy)  
 - *Fear* (Emotion, Mental)  
 - *Mage Armor* (Abjuration)  
@@ -213,97 +235,7 @@ And her dreams whisper truths.
 
 ---
 
-## Spell Flavors
-
-### Grim Tendrils
-
-Lilithia whispers,  
-**“You are heard.”**
-
-Pandora steps forward in complete silence, eyes wide and unblinking, as shadows begin to pool around her paws—not cast by any light, but spilled from somewhere deeper.
-
-From the space behind Lilithia, where her shadow doesn’t match her movements, thin, unraveling tendrils erupt—too long, too sharp, dragging reality open like tearing silk.
-
-They lash forward in a jagged line, not tearing flesh, but exposing what lies beneath: veins of regret, thoughts never voiced, memories no one should remember.
-
-They are not just shadows. They are judgments rendered in blood.
-
-As they strike, a voice not spoken aloud echoes in the minds of all who witness:
-
-**“You are revealed.”**
-
-*(It is not Lilithia. It is not Pandora. It simply is.)*
-
-Then she breathes the final word:
-
-**“You are judged.”**
-
-What bleeds is not just the body—but the parts they tried to hide.
-
----
-
-### Fear
-
-Lilithia does not threaten. She removes the veil.
-
-She locks eyes with her target—not in anger, but in silence.
-
-Pandora’s gaze mirrors her own: unblinking, pitiless, and impossibly still.
-
-Then, something shifts. Not in the air—*in the soul.*
-
-The target becomes aware not of Lilithia’s power, but of their own mask slipping.  
-Of the thing behind their name, beneath their pride, within their shadow.  
-They don’t see *her.* They see *themselves,* as Lilithia sees them:
-
-**Flawed. Pretending. Rotting beneath the surface.**
-
-Then they hear it—not aloud, but in the marrow:
-
-**“You are revealed.”**
-
-(No sound. Just the cold realization that someone else already knows.)
-
-**Roleplay Detail:**  
-- Frightened is not panic. It is the soul recoiling.  
-- Can be flavored as a psychic stripping-down in tense situations.
-
----
-
-### Void Warp
-
-Lilithia does not gesture. She does not chant.  
-She simply turns her gaze to the creature—and blinks.
-
-Not her eyes.  
-Reality blinks.
-
-A jagged ripple snaps through the air, like glass folding inward.  
-The target vanishes for less than a heartbeat, but in that moment they are not moved. They are *misplaced.*
-
-They reappear slightly to the side—but everything is wrong:
-
-- Their shadow stretches the wrong direction.  
-- Their mouth moves before the sound catches up.  
-- Their skin crawls like something inside *remembers another shape.*
-
-The mind screams to understand—because something happened.  
-And it wasn’t magic.
-
-Then, deep in their mind, comes an understanding:
-
-**“You are not where you should be.”**
-
-(And something else was. Just for a moment.)
-
-**Roleplay Detail:**  
-- Sickened condition = soul-deep disorientation.  
-- Treat as ontological vertigo, not nausea.  
-- May cause fear or hesitation in repeat targets.
-
----
-
-## Future Spell Wishlist
+## 🌌 Future Spell Wishlist
 
 - **Toxic Temptation** – Occult, seductive and poisonous; mirrors her manipulation  
 - **Abyssal Warp** – Void-warping space magic; enhances displacement theme  
@@ -313,7 +245,7 @@ Then, deep in their mind, comes an understanding:
 
 ---
 
-## Equipment (Starting Wealth: 15 gp)
+## 🎒 Equipment *(Starting Wealth: 15 gp)*
 
 - **Adventurer’s Pack** – 1 gp  
 - **Dagger** – 2 sp  
@@ -323,19 +255,21 @@ Then, deep in their mind, comes an understanding:
 - **Darkweave Scarf** – 1 gp  
 - **Remaining Gold:** 4.8 gp
 
-**Outfit:**  
+### Outfit
+
 - Explorer’s Clothing  
 - Raven-feather cloak *(non-magical)*  
 - Dark silk gloves *(non-magical)*
 
-**Gear Placement:**  
+### Gear Placement
+
 - **Worn:** Darkweave Scarf, Cloak  
 - **Belt:** Pouch, Dagger  
 - **Backpack:** Tools, Writing Set
 
 ---
 
-## Edicts & Anathema
+## 📜 Edicts & Anathema
 
 **Edicts**  
 - Expose hidden truths  
@@ -351,48 +285,40 @@ Then, deep in their mind, comes an understanding:
 
 ---
 
-## Roleplay & Personality
+## 🗣️ Roleplay & Personality
 
 ### Creed (Formal)
->"You are heard. 
-You are revealed.
-You are judged.  
-What you are beneath your masks,  
-beneath your prayers,  
-beneath your hope—  
-that is what remains.  
-And that is what I reveal.
-I bare you upon this 
-world. I bare you 
-upon It for Its 
-judgement."
+
+> "You are heard.  
+> You are revealed.  
+> You are judged.  
+> What you are beneath your masks,  
+> beneath your prayers,  
+> beneath your hope—  
+> that is what remains.  
+> And that is what I reveal.  
+> I bare you upon this world.  
+> I bare you upon It for Its judgement."
 
 ### Reflections (Casual)
+
 - "Truth burns. But it shows what’s real."  
 - "I do not curse you. I only reveal you."  
 - "You are heard. You are revealed. You are judged."
 
 ---
 
-## Appearance
+## 🧛 Appearance
 
 - **Skin:** Pale porcelain  
 - **Eyes:** Distant, shadowed; like dying stars  
 - **Cloak:** Black raven feathers, trailing like shadows  
 - **Gloves:** Dark silk, always pristine  
-- **Presence:** Elegant, austere, and quietly terrifying; like the calm before something soul-crushing.
-
-**Attitude – “She wears a mask of horror.”**  
-Lilithia is quiet and reserved, but never soft. She doesn’t charm—she reveals.  
-Where others wear masks to pretend, she wears one to expose the truth.  
-She despises social facades and finds courtly games repulsive.  
-She speaks in unsettling truths and lets others carry the weight of what they now know.
-
-> “I do not curse you. I simply remove the veil. What you do with what you see; that is your sin.”
+- **Presence:** Elegant, austere, and quietly terrifying; like the calm before something soul-crushing
 
 ---
 
-## Social Dynamics: Friendship, Admiration, and Enemies
+## 🤝 Social Dynamics
 
 ### Friendship
 
@@ -428,8 +354,8 @@ She expresses admiration by:
 Lilithia does not rage. She judges.
 
 - Enemies are examined. If false, they are *peeled open.*  
-- She saves cruelty for liars and manipulators who harm others.  
-- If you harm someone she has claimed as “hers,” you are already being measured.
+- She saves cruelty for liars and manipulators who harm others  
+- If you harm someone she has claimed as “hers,” you are already being measured
 
 She does not taunt.  
 She does not warn.  
@@ -442,8 +368,7 @@ She removes the veil—and lets you see what hunts behind it.
 Lilithia does not stay out of trust or kinship.  
 She stays because they distract the thing that whispers to her.
 
-They talk. They bleed. They shine.
-
+They talk. They bleed. They shine.  
 And for a time, that is enough to keep it quiet.
 
 They are not companions. They are interference, useful noise that slows the dark.  
@@ -461,7 +386,8 @@ Not for redemption.
 Only because the end is patient.
 
 She does not know what it is, or what it wants, only that it is inside her now, watching, shaping, waiting.  
-It does not speak. It does not demand. It simply *is*. And every spell she casts the tendrils tighten inside her a little deeper.
+It does not speak. It does not demand. It simply *is*.  
+And every spell she casts, the tendrils tighten inside her a little deeper.
 
 She doesn’t know how far she’s already gone.  
 Only that something is being taken, quietly, irrevocably, and she no longer remembers what it was.
@@ -470,6 +396,6 @@ And though she knows no one can save her now,
 part of her still reaches, blindly,  
 toward the only ones left who might notice the cracks.  
 Not to rescue her. Not to bring her back.  
-But to see her, the real truth,  
-before the last piece of her is gone
+But to see her—the real truth—  
+before the last piece of her is gone,  
 and it is too late to stop It.
